@@ -1,0 +1,22 @@
+C:\Users\Suarez.253740\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\FrmBasicThread.exe.config
+C:\Users\Suarez.253740\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\FrmBasicThread.exe
+C:\Users\Suarez.253740\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\FrmBasicThread.pdb
+C:\Users\Suarez.253740\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.AssemblyReference.cache
+C:\Users\Suarez.253740\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suarez.253740\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.Form1.resources
+C:\Users\Suarez.253740\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.Properties.Resources.resources
+C:\Users\Suarez.253740\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.GenerateResource.cache
+C:\Users\Suarez.253740\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.CoreCompileInputs.cache
+C:\Users\Suarez.253740\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.exe
+C:\Users\Suarez.253740\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.pdb
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmTrackThread\FrmBasicThread\bin\Debug\FrmBasicThread.exe.config
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmTrackThread\FrmBasicThread\bin\Debug\FrmBasicThread.exe
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmTrackThread\FrmBasicThread\bin\Debug\FrmBasicThread.pdb
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmTrackThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.AssemblyReference.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmTrackThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.SuggestedBindingRedirects.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmTrackThread\FrmBasicThread\obj\Debug\FrmBasicThread.Form1.resources
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmTrackThread\FrmBasicThread\obj\Debug\FrmBasicThread.Properties.Resources.resources
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmTrackThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.GenerateResource.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmTrackThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.CoreCompileInputs.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmTrackThread\FrmBasicThread\obj\Debug\FrmBasicThread.exe
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\FrmTrackThread\FrmBasicThread\obj\Debug\FrmBasicThread.pdb
